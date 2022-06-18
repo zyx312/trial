@@ -18,6 +18,7 @@ how to :ref:`installation` the project.
    Lumache has its documentation hosted on Read the Docs.
 
 # 功能安全
+
 ## 术语库
 1. Functional Safety 功能安全
 2. E/E 
