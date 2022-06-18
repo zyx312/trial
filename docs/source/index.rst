@@ -24,5 +24,3 @@ Contents
 
    usage
    api
-   SASE
-   WIKI
